@@ -1,6 +1,5 @@
 ## This is my very First Chat App - **Chitty Chat**
 
----
 
 This is my first attemp building a Chat app
 

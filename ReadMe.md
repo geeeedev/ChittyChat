@@ -10,7 +10,7 @@ Technology used:
 - Socket.IO
 - moment.js
 
-Future Improvements Needed:
+Future Improvements:
 
 1. Clear Chat button should completely clear chat. Currently it clears the chat but also immediately adds a blank conversation box.
 2. WhoJustJoin message should be incorporated into the chat history. Currently it is at the top of chat history.
